@@ -26,5 +26,9 @@ namespace git8.Controllers
 
             return View();
         }
+        public ActionResult Dangnhap()
+        {
+            return View();
+        }
     }
 }
